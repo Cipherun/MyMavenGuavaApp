@@ -41,4 +41,4 @@ pipeline {
             echo 'Build failed!'
         }
     }
-} i have this in jenkinsfile on github
+} 
